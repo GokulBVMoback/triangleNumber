@@ -1,0 +1,8 @@
+C:\Users\moback idc\source\repos\triangleNumber\bin\Debug\triangleNumber.exe.config
+C:\Users\moback idc\source\repos\triangleNumber\bin\Debug\triangleNumber.exe
+C:\Users\moback idc\source\repos\triangleNumber\bin\Debug\triangleNumber.pdb
+C:\Users\moback idc\source\repos\triangleNumber\obj\Debug\triangleNumber.csproj.AssemblyReference.cache
+C:\Users\moback idc\source\repos\triangleNumber\obj\Debug\triangleNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\moback idc\source\repos\triangleNumber\obj\Debug\triangleNumber.csproj.CoreCompileInputs.cache
+C:\Users\moback idc\source\repos\triangleNumber\obj\Debug\triangleNumber.exe
+C:\Users\moback idc\source\repos\triangleNumber\obj\Debug\triangleNumber.pdb
